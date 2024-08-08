@@ -1,6 +1,6 @@
 # intern_project_v2
 
-A new Flutter project.
+A Flutter project for Mobile Developer Intern 2024 assesment in Suitmedia.
 
 ## Getting Started
 
